@@ -6,7 +6,7 @@
 <i>Building scalable systems and solving problems through code.</i>
 </p>
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,react,nodejs,express,mysql,mongodb,git,github,postman,vscode,linux,docker" />
 </p>
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -27,7 +27,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviprasathk47&theme=react-dark"/>
 </p>
 
----
+
 
 ## 🌐 Contact
 
