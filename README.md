@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hello!%20I'm%20Kavi%20Prasath&desc=Full%20Stack%20Developer%20|%20DSA%20Learner&fontSize=40&descSize=20&color=random"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Kavi+Prasath;Full+Stack+Developer;DSA+Learner;Always+Learning"/>
 </p>
 
 <p align="center"><i>Building useful systems and improving problem-solving every day.</i></p>
