@@ -18,10 +18,10 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true&theme=tokyonight"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviprasathk47&theme=react-dark"/>
