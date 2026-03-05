@@ -1,57 +1,78 @@
-# Hi 👋 I'm Micky
+<h1 align="center">Hi 👋 I'm Micky</h1>
 
-🎓 Computer Science Student
-💻 Full Stack Development Learner
-🧠 Practicing Data Structures and Algorithms
-
-I focus on building practical applications and strengthening problem-solving skills.
-Currently improving my understanding of backend systems, databases, and scalable web applications.
+<p align="center">
+Full Stack Developer • Problem Solver • DSA Learner
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-* 🎓 Computer Science student preparing for software engineering roles
+* 🎓 Computer Science Student
 * 💻 Interested in **Full Stack Development**
-* 🧠 Regularly practicing **Data Structures and Algorithms**
-* ⚙️ Learning backend systems, APIs, and database design
-* 📈 Goal: Build scalable applications and improve system design understanding
+* 🧠 Practicing **Data Structures and Algorithms**
+* ⚙️ Learning backend architecture and scalable systems
+* 📈 Preparing for **software engineering placements**
 
 ---
 
-## Tools & Technologies
+## 🧰 Tech Stack
 
 ### Programming Languages
 
-Java • JavaScript • Python • C++
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
 
-### Frontend
+### Frontend Development
 
-HTML • CSS • React
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
 
-### Backend
+### Backend Development
 
-Node.js • Express • PHP
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
 ### Databases
 
-MySQL • MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools
+### Tools & Technologies
 
-Git • GitHub • Postman • VS Code
-
----
-
-## Projects I'm Working On
-
-* Resume Skill Extractor
-* Pump Monitoring Dashboard
-* Data Structures Practice Repository
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker" />
+</p>
 
 ---
 
-## Contact
+## 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Backend Architecture
+* Database Optimization
+
+---
+
+## 🧩 Projects
+
+**Resume Skill Extractor**
+Extracts skills automatically from uploaded resumes.
+
+**Pump Monitoring Dashboard**
+A real-time dashboard built with React for monitoring pump metrics.
+
+**DSA Practice Repository**
+Collection of algorithms and data structure implementations.
+
+---
+
+## 📫 Contact
 
 GitHub: https://github.com/YOUR_USERNAME
 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
