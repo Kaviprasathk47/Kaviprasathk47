@@ -1,36 +1,36 @@
-<h1 align="center">Hi 👋 I'm Micky</h1>
+<h1 align="center">Hi 👋 I'm Kavi Prasath</h1>
 
 <p align="center">
-Full Stack Developer • Problem Solver • DSA Learner
+Full Stack Developer • DSA Learner • Problem Solver
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
 * 💻 Interested in **Full Stack Development**
 * 🧠 Practicing **Data Structures and Algorithms**
-* ⚙️ Learning backend architecture and scalable systems
-* 📈 Preparing for **software engineering placements**
+* ⚙️ Learning backend architecture and database systems
+* 📈 Preparing for **Software Engineering roles**
 
 ---
 
 ## 🧰 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
@@ -42,7 +42,7 @@ Full Stack Developer • Problem Solver • DSA Learner
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker" />
@@ -50,30 +50,26 @@ Full Stack Developer • Problem Solver • DSA Learner
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-* Advanced Data Structures & Algorithms
-* System Design Fundamentals
-* Backend Architecture
-* Database Optimization
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🧩 Projects
+## 📈 Contribution Activity
 
-**Resume Skill Extractor**
-Extracts skills automatically from uploaded resumes.
-
-**Pump Monitoring Dashboard**
-A real-time dashboard built with React for monitoring pump metrics.
-
-**DSA Practice Repository**
-Collection of algorithms and data structure implementations.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviprasathk47&theme=react-dark"/>
 
 ---
 
 ## 📫 Contact
 
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-Email: [yourmail@example.com](mailto:yourmail@example.com)
+GitHub: https://github.com/Kaviprasathk47
+LinkedIn: www.linkedin.com/in/kaviprasathk47
+Email: [kaviprasath047@gmail.com](mailto:kaviprasath047@gmail.com)
