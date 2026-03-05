@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋 I'm Kavi Prasath</h1>
+<h1 align="center">Hi 👋 I'm Micky</h1>
 
 <p align="center">
 Full Stack Developer • DSA Learner • Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaviprasathk47&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -53,11 +57,8 @@ Full Stack Developer • DSA Learner • Problem Solver
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -68,8 +69,10 @@ Full Stack Developer • DSA Learner • Problem Solver
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-GitHub: https://github.com/Kaviprasathk47
-LinkedIn: www.linkedin.com/in/kaviprasathk47
-Email: [kaviprasath047@gmail.com](mailto:kaviprasath047@gmail.com)
+<p>
+<a href="https://github.com/Kaviprasathk47">GitHub</a> •
+<a href="www.linkedin.com/in/kaviprasathk47">LinkedIn</a> •
+<a href="mailto:kaviprasath047@gmail.com">Email</a>
+</p>
