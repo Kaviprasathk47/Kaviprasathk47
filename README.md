@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Micky
 
-<!--
-**Kaviprasathk47/Kaviprasathk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+💻 Full Stack Developer  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Java
+- Data Structures & Algorithms
+- React
+- Node.js
+- MySQL
+- Git
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+
+---
+
+## 🔥 Current Focus
+
+- Solving DSA problems daily
+- Learning system design
+- Building full stack projects
+
+---
+
+## 📫 Contact
+
+- LinkedIn: your-link
+- Email: your-email
