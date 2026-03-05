@@ -14,30 +14,30 @@ Full Stack Developer | DSA Learner
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact)
 
 ---
 
 ## GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviprasathk47)
 
 ---
 
 ## GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com?user=Kaviprasathk47)
 
 ---
 
 ## Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kaviprasathk47)
 
 ---
 
 ## Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=Kaviprasathk47)
