@@ -31,13 +31,13 @@ Full Stack Developer • DSA Learner • Problem Solver
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,fastAPI" />
 </p>
 
 ### Databases
