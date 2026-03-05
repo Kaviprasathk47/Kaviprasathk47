@@ -1,43 +1,58 @@
-<h1 align="center">Hi 👋 I'm Micky</h1>
+# Hi 👋 I'm Micky
 
-<p align="center">
-Full Stack Developer | DSA Learner
-</p>
+🎓 Computer Science Student
+💻 Full Stack Development Learner
+🧠 Practicing Data Structures and Algorithms
 
----
-
-## Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github)
+I focus on building practical applications and strengthening problem-solving skills.
+Currently improving my understanding of backend systems, databases, and scalable web applications.
 
 ---
 
-## GitHub Stats
+## About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kaviprasathk47&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviprasathk47&layout=compact)
-
----
-
-## GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviprasathk47)
+* 🎓 Computer Science student preparing for software engineering roles
+* 💻 Interested in **Full Stack Development**
+* 🧠 Regularly practicing **Data Structures and Algorithms**
+* ⚙️ Learning backend systems, APIs, and database design
+* 📈 Goal: Build scalable applications and improve system design understanding
 
 ---
 
-## GitHub Streak
+## Tools & Technologies
 
-![Streak](https://streak-stats.demolab.com?user=Kaviprasathk47)
+### Programming Languages
+
+Java • JavaScript • Python • C++
+
+### Frontend
+
+HTML • CSS • React
+
+### Backend
+
+Node.js • Express • PHP
+
+### Databases
+
+MySQL • MongoDB
+
+### Tools
+
+Git • GitHub • Postman • VS Code
 
 ---
 
-## Achievements
+## Projects I'm Working On
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kaviprasathk47)
+* Resume Skill Extractor
+* Pump Monitoring Dashboard
+* Data Structures Practice Repository
 
 ---
 
-## Profile Views
+## Contact
 
-![](https://komarev.com/ghpvc/?username=Kaviprasathk47)
+GitHub: https://github.com/YOUR_USERNAME
+LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+Email: [yourmail@example.com](mailto:yourmail@example.com)
