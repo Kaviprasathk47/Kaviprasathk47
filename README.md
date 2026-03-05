@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kaviprasathk47/Kaviprasathk47/main/banner.png" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hello!%20I'm%20Micky&desc=Full%20Stack%20Developer%20|%20DSA%20Learner&fontSize=40&descSize=20&color=random"/>
 </p>
 
 <p align="center">
